@@ -18,3 +18,6 @@ Logo and Config code
 
 ## 5000 body
 Logo and config code. 
+HPF and Pad on Body
+- Top of body in chuck
+- orient face up
