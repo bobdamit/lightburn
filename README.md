@@ -10,3 +10,11 @@ Puts the HPF filter and Pad markings above the switches
 Logo and Configuration code
 - Bottom of body in chuck
 - orient front up
+
+## 910 Body
+Logo and Config code
+- Bottom of body in chuck
+- orient face up
+
+## 5000 body
+Logo and config code. 
