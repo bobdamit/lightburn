@@ -2,6 +2,12 @@
 Lightburn projects
 
 
+## 990 Body
+Logo and Config code
+- carefully mark center when body is screwed on tight
+- line up laser center to that mark
+- bottom of body in chuck
+
 ## 770 Headbasket
 Puts the HPF filter and Pad markings above the switches
 - orient front down
@@ -22,9 +28,7 @@ HPF and Pad on Body
 - Top of body in chuck
 - orient face up
 
-
-## 990 Body
+## SDC Body
 Logo and Config code
-- carefully mark center when body is screwed on tight
-- line up laser center to that mark
-- bottom of body in chuck
+- if keeping mxl branding, line up center with that.  otherwise, arbitrary
+- Bottom of body in chuck (OD - don't scratch the body!)
