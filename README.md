@@ -30,7 +30,8 @@ HPF and Pad on Body
 
 ## SDC Body
 Logo and Config code
-- if keeping mxl branding, line up center with that.  otherwise, arbitrary
+Small radius so small slices are needed.  That's a challenge - especially on the brass ones.
+- orientation is mostly arbitraray.  Try to line up logo with side grills
 - Bottom of body in chuck (OD - don't scratch the body!)
 
 ## maudio Nova
