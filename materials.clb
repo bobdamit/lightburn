@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightBurnLibrary DisplayName="materials">
     <Material name="Alum">
-        <Entry Thickness="-1.0000" Desc="MXL910 or 991" NoThickTitle="Aluminum Mic Body">
+        <Entry Thickness="-1.0000" Desc="MXL Aluminum (910)" NoThickTitle="Aluminum Mic Body">
             <CutSetting type="Scan">
                 <index Value="0"/>
                 <name Value=""/>
@@ -21,10 +21,10 @@
                 <tabCountMax Value="1"/>
             </CutSetting>
         </Entry>
-        <Entry Thickness="-1.0000" Desc="MXL 770 Black Anodized" NoThickTitle="Aluminum Mic Body">
+        <Entry Thickness="-1.0000" Desc="Black Anodized" NoThickTitle="Aluminum Mic Body">
             <CutSetting type="Scan">
                 <index Value="0"/>
-                <name Value=""/>
+                <name Value="Black Anodized"/>
                 <LinkPath Value="Alum/Aluminum Mic Body/MXL 770 Black Anodized"/>
                 <minPower Value="5"/>
                 <maxPower Value="40"/>
