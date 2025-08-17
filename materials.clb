@@ -5,11 +5,11 @@
             <CutSetting type="Scan">
                 <index Value="0"/>
                 <name Value=""/>
-                <LinkPath Value="Alum/Aluminum Mic Body/MXL910 or 991"/>
+                <LinkPath Value="Alum/Aluminum Mic Body/MXL Aluminum (910)"/>
                 <minPower Value="2.5"/>
-                <maxPower Value="65"/>
+                <maxPower Value="75"/>
                 <maxPower2 Value="20"/>
-                <speed Value="40"/>
+                <speed Value="20"/>
                 <frequency Value="50000"/>
                 <scanOpt Value="individual"/>
                 <angle Value="90"/>
@@ -24,8 +24,8 @@
         <Entry Thickness="-1.0000" Desc="Black Anodized" NoThickTitle="Aluminum Mic Body">
             <CutSetting type="Scan">
                 <index Value="0"/>
-                <name Value="Black Anodized"/>
-                <LinkPath Value="Alum/Aluminum Mic Body/MXL 770 Black Anodized"/>
+                <name Value=""/>
+                <LinkPath Value="Alum/Aluminum Mic Body/Black Anodized"/>
                 <minPower Value="5"/>
                 <maxPower Value="40"/>
                 <maxPower2 Value="20"/>

@@ -6,7 +6,7 @@ Lightburn projects
 Logo and Config code
 - carefully mark center when body is screwed on tight
 - line up laser center to that mark
-- bottom of body in chuck
+- TOP of body in chuck
 
 ## 770 Headbasket
 Puts the HPF filter and Pad markings above the switches
@@ -32,3 +32,9 @@ HPF and Pad on Body
 Logo and Config code
 - if keeping mxl branding, line up center with that.  otherwise, arbitrary
 - Bottom of body in chuck (OD - don't scratch the body!)
+
+## maudio Nova
+Logo and Config code
+This one has a tapered body so warping has been applied to the images
+- Top of body in chuck
+- oriented front up
