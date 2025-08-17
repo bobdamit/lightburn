@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnLibrary DisplayName="materials">
+    <Material name="Alum">
+        <Entry Thickness="-1.0000" Desc="MXL910 or 991" NoThickTitle="Aluminum Mic Body">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Alum/Aluminum Mic Body/MXL910 or 991"/>
+                <minPower Value="2.5"/>
+                <maxPower Value="65"/>
+                <maxPower2 Value="20"/>
+                <speed Value="40"/>
+                <frequency Value="50000"/>
+                <scanOpt Value="individual"/>
+                <angle Value="90"/>
+                <autoRotate Value="1"/>
+                <priority Value="0"/>
+                <hide Value="1"/>
+                <globalRepeat Value="15"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="MXL 770 Black Anodized" NoThickTitle="Aluminum Mic Body">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Alum/Aluminum Mic Body/MXL 770 Black Anodized"/>
+                <minPower Value="5"/>
+                <maxPower Value="40"/>
+                <maxPower2 Value="20"/>
+                <speed Value="60"/>
+                <frequency Value="30000"/>
+                <scanOpt Value="individual"/>
+                <priority Value="0"/>
+                <globalRepeat Value="12"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+</LightBurnLibrary>
