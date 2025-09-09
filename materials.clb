@@ -1,39 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightBurnLibrary DisplayName="materials">
     <Material name="Alum">
-        <Entry Thickness="-1.0000" Desc="MXL Aluminum (910)" NoThickTitle="Aluminum Mic Body">
-            <CutSetting type="Scan">
-                <index Value="0"/>
-                <name Value=""/>
-                <LinkPath Value="Alum/Aluminum Mic Body/MXL Aluminum (910)"/>
-                <minPower Value="2.5"/>
-                <maxPower Value="75"/>
-                <maxPower2 Value="20"/>
-                <speed Value="20"/>
-                <frequency Value="50000"/>
-                <scanOpt Value="individual"/>
-                <angle Value="90"/>
-                <autoRotate Value="1"/>
-                <priority Value="0"/>
-                <hide Value="1"/>
-                <globalRepeat Value="15"/>
-                <tabCount Value="1"/>
-                <tabCountMax Value="1"/>
-            </CutSetting>
-        </Entry>
         <Entry Thickness="-1.0000" Desc="Black Anodized" NoThickTitle="Aluminum Mic Body">
             <CutSetting type="Scan">
                 <index Value="0"/>
                 <name Value=""/>
                 <LinkPath Value="Alum/Aluminum Mic Body/Black Anodized"/>
                 <minPower Value="5"/>
-                <maxPower Value="40"/>
+                <maxPower Value="55"/>
                 <maxPower2 Value="20"/>
-                <speed Value="60"/>
+                <speed Value="75"/>
                 <frequency Value="30000"/>
                 <scanOpt Value="individual"/>
                 <priority Value="0"/>
-                <globalRepeat Value="12"/>
+                <globalRepeat Value="8"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="Painted" NoThickTitle="Aluminum Mic Body">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Alum/Aluminum Mic Body/Painted"/>
+                <minPower Value="2.5"/>
+                <maxPower Value="40"/>
+                <maxPower2 Value="20"/>
+                <speed Value="80"/>
+                <frequency Value="40000"/>
+                <scanOpt Value="individual"/>
+                <angle Value="90"/>
+                <autoRotate Value="1"/>
+                <priority Value="0"/>
+                <globalRepeat Value="4"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="Bare" NoThickTitle="Aluminum Mic Body">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Alum/Aluminum Mic Body/Bare"/>
+                <minPower Value="2.5"/>
+                <maxPower Value="60"/>
+                <maxPower2 Value="20"/>
+                <speed Value="50"/>
+                <frequency Value="30000"/>
+                <scanOpt Value="individual"/>
+                <crossHatch Value="1"/>
+                <angle Value="90"/>
+                <autoRotate Value="1"/>
+                <priority Value="0"/>
+                <globalRepeat Value="8"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Brass">
+        <Entry Thickness="-1.0000" Desc="Painted" NoThickTitle="Brass Mic Body">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Brass/Brass Mic Body/Painted"/>
+                <minPower Value="2.5"/>
+                <maxPower Value="40"/>
+                <maxPower2 Value="20"/>
+                <speed Value="80"/>
+                <frequency Value="40000"/>
+                <scanOpt Value="individual"/>
+                <angle Value="90"/>
+                <autoRotate Value="1"/>
+                <priority Value="0"/>
+                <globalRepeat Value="4"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="Bare" NoThickTitle="Brass Mic Body">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Brass/Brass Mic Body/Bare"/>
+                <minPower Value="2.5"/>
+                <maxPower Value="47.5"/>
+                <maxPower2 Value="20"/>
+                <speed Value="115"/>
+                <frequency Value="30000"/>
+                <scanOpt Value="individual"/>
+                <crossHatch Value="1"/>
+                <angle Value="90"/>
+                <autoRotate Value="1"/>
+                <priority Value="0"/>
+                <globalRepeat Value="15"/>
                 <tabCount Value="1"/>
                 <tabCountMax Value="1"/>
             </CutSetting>
