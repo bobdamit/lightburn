@@ -14,6 +14,11 @@ Logo and Configuration code.  Switch Icons
 - Bottom of body in chuck flush with chuck base
 - orient front up
 
+## 102 body
+Logo and config
+ - mic base in chuck clamped on OD
+ - Front Up
+
 ## 910 Body
 Logo and Config code
 - Bottom of body in chuck
