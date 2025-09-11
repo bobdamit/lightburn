@@ -19,6 +19,13 @@ Logo and config
  - mic base in chuck clamped on OD
  - Front Up
 
+# TF33 Body
+Logo and config
+ - mic top in chuck on second set of chuck teeth
+ - front up
+This is heavier anodizing than most. It will appear like you're not cutting through it, but just brush it off with a toothbrush between runs
+
+
 ## 910 Body
 Logo and Config code
 - Bottom of body in chuck
