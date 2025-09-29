@@ -6,7 +6,7 @@ Lightburn projects
 Logo and Config code
 - carefully mark center when body is screwed on tight
 - line up laser center to that mark
-- TOP of body in chuck
+- TOP of body in chuck on second set of things
 
 
 ## 770 Body
@@ -48,5 +48,5 @@ Small radius so small slices are needed.  That's a challenge - especially on the
 Logo and Config code
 This one has a tapered body so warping has been applied to the images.
 body is brass so very difficult to etch.  we might condider a painted version where we just cut through the paint. But we're not having great luck with that on the brass SDCs at the moment
-- Top of body in chuck
+- Top of body in chuch on second set of things
 - oriented front up

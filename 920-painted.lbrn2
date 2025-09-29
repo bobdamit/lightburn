@@ -51,14 +51,10 @@
     <CutSetting type="Scan">
         <index Value="1"/>
         <name Value="rS"/>
-        <minPower Value="2.5"/>
-        <maxPower Value="40"/>
+        <maxPower Value="35"/>
         <maxPower2 Value="20"/>
         <speed Value="80"/>
         <frequency Value="40000"/>
-        <scanOpt Value="individual"/>
-        <angle Value="90"/>
-        <autoRotate Value="1"/>
         <priority Value="1"/>
         <globalRepeat Value="4"/>
         <tabCount Value="1"/>
@@ -67,14 +63,10 @@
     <CutSetting type="Scan">
         <index Value="5"/>
         <name Value="47TC.C"/>
-        <minPower Value="2.5"/>
-        <maxPower Value="40"/>
+        <maxPower Value="35"/>
         <maxPower2 Value="20"/>
         <speed Value="80"/>
         <frequency Value="40000"/>
-        <scanOpt Value="individual"/>
-        <angle Value="90"/>
-        <autoRotate Value="1"/>
         <priority Value="2"/>
         <doOutput Value="0"/>
         <hide Value="1"/>
@@ -85,14 +77,10 @@
     <CutSetting type="Scan">
         <index Value="6"/>
         <name Value="47TC.A"/>
-        <minPower Value="2.5"/>
-        <maxPower Value="40"/>
+        <maxPower Value="35"/>
         <maxPower2 Value="20"/>
         <speed Value="80"/>
         <frequency Value="40000"/>
-        <scanOpt Value="individual"/>
-        <angle Value="90"/>
-        <autoRotate Value="1"/>
         <priority Value="3"/>
         <doOutput Value="0"/>
         <hide Value="1"/>
@@ -103,14 +91,10 @@
     <CutSetting type="Scan">
         <index Value="7"/>
         <name Value="47TC.3"/>
-        <minPower Value="2.5"/>
-        <maxPower Value="40"/>
+        <maxPower Value="35"/>
         <maxPower2 Value="20"/>
         <speed Value="80"/>
         <frequency Value="40000"/>
-        <scanOpt Value="individual"/>
-        <angle Value="90"/>
-        <autoRotate Value="1"/>
         <priority Value="4"/>
         <doOutput Value="0"/>
         <hide Value="1"/>
@@ -121,14 +105,10 @@
     <CutSetting type="Scan">
         <index Value="8"/>
         <name Value="47TC.N"/>
-        <minPower Value="2.5"/>
-        <maxPower Value="40"/>
+        <maxPower Value="35"/>
         <maxPower2 Value="20"/>
         <speed Value="80"/>
         <frequency Value="40000"/>
-        <scanOpt Value="individual"/>
-        <angle Value="90"/>
-        <autoRotate Value="1"/>
         <priority Value="5"/>
         <globalRepeat Value="4"/>
         <tabCount Value="1"/>
@@ -137,14 +117,10 @@
     <CutSetting type="Scan">
         <index Value="9"/>
         <name Value="12TC.C"/>
-        <minPower Value="2.5"/>
-        <maxPower Value="40"/>
+        <maxPower Value="35"/>
         <maxPower2 Value="20"/>
         <speed Value="80"/>
         <frequency Value="40000"/>
-        <scanOpt Value="individual"/>
-        <angle Value="90"/>
-        <autoRotate Value="1"/>
         <priority Value="6"/>
         <doOutput Value="0"/>
         <hide Value="1"/>
@@ -155,14 +131,10 @@
     <CutSetting type="Scan">
         <index Value="10"/>
         <name Value="12TC.A"/>
-        <minPower Value="2.5"/>
-        <maxPower Value="40"/>
+        <maxPower Value="35"/>
         <maxPower2 Value="20"/>
         <speed Value="80"/>
         <frequency Value="40000"/>
-        <scanOpt Value="individual"/>
-        <angle Value="90"/>
-        <autoRotate Value="1"/>
         <priority Value="7"/>
         <doOutput Value="0"/>
         <hide Value="1"/>
@@ -173,14 +145,10 @@
     <CutSetting type="Scan">
         <index Value="11"/>
         <name Value="12TC.3"/>
-        <minPower Value="2.5"/>
-        <maxPower Value="40"/>
+        <maxPower Value="35"/>
         <maxPower2 Value="20"/>
         <speed Value="80"/>
         <frequency Value="40000"/>
-        <scanOpt Value="individual"/>
-        <angle Value="90"/>
-        <autoRotate Value="1"/>
         <priority Value="8"/>
         <doOutput Value="0"/>
         <hide Value="1"/>
@@ -191,14 +159,10 @@
     <CutSetting type="Scan">
         <index Value="12"/>
         <name Value="Outline Fill"/>
-        <minPower Value="2.5"/>
-        <maxPower Value="40"/>
+        <maxPower Value="35"/>
         <maxPower2 Value="20"/>
         <speed Value="80"/>
         <frequency Value="40000"/>
-        <scanOpt Value="individual"/>
-        <angle Value="90"/>
-        <autoRotate Value="1"/>
         <priority Value="0"/>
         <globalRepeat Value="4"/>
         <tabCount Value="1"/>
@@ -207,14 +171,10 @@
     <CutSetting type="Scan">
         <index Value="13"/>
         <name Value="47TL"/>
-        <minPower Value="2.5"/>
-        <maxPower Value="40"/>
+        <maxPower Value="35"/>
         <maxPower2 Value="20"/>
         <speed Value="80"/>
         <frequency Value="40000"/>
-        <scanOpt Value="individual"/>
-        <angle Value="90"/>
-        <autoRotate Value="1"/>
         <priority Value="9"/>
         <doOutput Value="0"/>
         <hide Value="1"/>
@@ -225,14 +185,10 @@
     <CutSetting type="Scan">
         <index Value="14"/>
         <name Value="Personalized"/>
-        <minPower Value="2.5"/>
-        <maxPower Value="40"/>
+        <maxPower Value="35"/>
         <maxPower2 Value="20"/>
         <speed Value="80"/>
         <frequency Value="40000"/>
-        <scanOpt Value="individual"/>
-        <angle Value="90"/>
-        <autoRotate Value="1"/>
         <priority Value="10"/>
         <globalRepeat Value="4"/>
         <tabCount Value="1"/>
@@ -323,12 +279,12 @@
             </Shape>
         </Children>
     </Shape>
-    <Shape Type="Path" CutIndex="12" VertID="11" PrimID="3">
+    <Shape Type="Path" CutIndex="12" VertID="12" PrimID="4">
         <XForm>1 0 0 1 0 -1.2275391</XForm>
         <VertList>V55.208984 72.440918c0x1c1x1V55.415527 72.478027c0x1c1x1V55.608887 72.538086c0x1c1x1V55.813477 72.630859c0x1c1x1V64.236328 77.120605c0x1c1x1V64.414063 77.22998c0x1c1x1V64.560547 77.347168c0x1c1x1V64.680664 77.472656c0x1c1x1V64.780273 77.60791c0x1c1x1V64.86377 77.76123c0x1c1x1V64.918945 77.907227c0x1c1x1V64.95459 78.070313c0x1c1x1V64.967285 78.228027c0x1c1x1V64.95459 78.385742c0x1c1x1V64.918945 78.548828c0x1c1x1V64.863281 78.696777c0x1c1x1V64.782227 78.844238c0x1c1x1V64.678711 78.984863c0x1c1x1V64.559082 79.109863c0x1c1x1V64.413574 79.227051c0x1c1x1V64.240234 79.333496c0x1c1x1V55.813477 83.825195c0x1c1x1V55.608887 83.917969c0x1c1x1V55.415039 83.978027c0x1c1x1V55.210449 84.014648c0x1c1x1V55 84.027344c0x1c1x1V54.789551 84.014648c0x1c1x1V54.584961 83.978027c0x1c1x1V54.391113 83.917969c0x1c1x1V54.186523 83.825195c0x1c1x1V45.759766 79.333496c0x1c1x1V45.586426 79.227051c0x1c1x1V45.442383 79.11084c0x1c1x1V45.31543 78.979492c0x1c1x1V45.21875 78.847656c0x1c1x1V45.137207 78.698242c0x1c1x1V45.081055 78.548828c0x1c1x1V45.04541 78.385742c0x1c1x1V45.032715 78.228027c0x1c1x1V45.04541 78.070313c0x1c1x1V45.081055 77.907227c0x1c1x1V45.13623 77.76123c0x1c1x1V45.219727 77.60791c0x1c1x1V45.319336 77.472656c0x1c1x1V45.439453 77.347168c0x1c1x1V45.585938 77.22998c0x1c1x1V45.763672 77.120605c0x1c1x1V54.186523 72.630859c0x1c1x1V54.391113 72.538086c0x1c1x1V54.584473 72.478027c0x1c1x1V54.791016 72.440918c0x1c1x1V55 72.428223c0x1c1x1</VertList>
         <PrimList>LineClosed</PrimList>
     </Shape>
-    <Shape Type="Path" CutIndex="12" VertID="3" PrimID="9">
+    <Shape Type="Path" CutIndex="12" VertID="4" PrimID="10">
         <XForm>1 0 0 1 0 -1.2275391</XForm>
         <VertList>V55.244141 72.041992c0x1c1x1V55.267578 72.044922c0x1c1x1V55.497559 72.086426c0x1c1x1V55.520996 72.092285c0x1c1x1V55.739746 72.160156c0x1c1x1V55.763184 72.168945c0x1c1x1V55.983398 72.269043c0x1c1x1V55.995117 72.274902c0x1c1x1V64.434082 76.772949c0x1c1x1V64.444824 76.778809c0x1c1x1V64.634277 76.895508c0x1c1x1V64.654297 76.909668c0x1c1x1V64.820313 77.04248c0x1c1x1V64.839844 77.060547c0x1c1x1V64.979492 77.206543c0x1c1x1V64.996094 77.226074c0x1c1x1V65.11084 77.381836c0x1c1x1V65.125488 77.404785c0x1c1x1V65.220703 77.57959c0x1c1x1V65.231934 77.60498c0x1c1x1V65.29834 77.78125c0x1c1x1V65.306641 77.808594c0x1c1x1V65.348145 77.996582c0x1c1x1V65.352051 78.023926c0x1c1x1V65.366699 78.212402c0x1c1x1V65.366699 78.243652c0x1c1x1V65.352051 78.432129c0x1c1x1V65.348145 78.459473c0x1c1x1V65.306641 78.647461c0x1c1x1V65.29834 78.674805c0x1c1x1V65.231934 78.851563c0x1c1x1V65.220215 78.877441c0x1c1x1V65.125977 79.049316c0x1c1x1V65.111816 79.071777c0x1c1x1V64.994141 79.231445c0x1c1x1V64.977539 79.250977c0x1c1x1V64.838867 79.395996c0x1c1x1V64.819824 79.413574c0x1c1x1V64.655273 79.545898c0x1c1x1V64.634277 79.560547c0x1c1x1V64.444336 79.677246c0x1c1x1V64.434082 79.683105c0x1c1x1V55.995117 84.181152c0x1c1x1V55.983398 84.187012c0x1c1x1V55.763184 84.287109c0x1c1x1V55.739746 84.295898c0x1c1x1V55.520508 84.36377c0x1c1x1V55.49707 84.369629c0x1c1x1V55.269043 84.410645c0x1c1x1V55.245117 84.413574c0x1c1x1V55.011719 84.427246c0x1c1x1V54.988281 84.427246c0x1c1x1V54.754883 84.413574c0x1c1x1V54.730957 84.410645c0x1c1x1V54.50293 84.369629c0x1c1x1V54.479492 84.36377c0x1c1x1V54.260254 84.295898c0x1c1x1V54.236816 84.287109c0x1c1x1V54.016602 84.187012c0x1c1x1V54.004883 84.181152c0x1c1x1V45.565918 79.683105c0x1c1x1V45.555664 79.677246c0x1c1x1V45.365723 79.560547c0x1c1x1V45.344727 79.545898c0x1c1x1V45.180176 79.413086c0x1c1x1V45.161621 79.396484c0x1c1x1V45.020508 79.250488c0x1c1x1V45.003418 79.229492c0x1c1x1V44.88916 79.07373c0x1c1x1V44.875 79.05127c0x1c1x1V44.779785 78.876953c0x1c1x1V44.768066 78.851563c0x1c1x1V44.70166 78.674805c0x1c1x1V44.693359 78.647461c0x1c1x1V44.651855 78.459473c0x1c1x1V44.647949 78.432129c0x1c1x1V44.633301 78.243652c0x1c1x1V44.633301 78.212402c0x1c1x1V44.647949 78.023926c0x1c1x1V44.651855 77.996582c0x1c1x1V44.693359 77.808594c0x1c1x1V44.70166 77.78125c0x1c1x1V44.768066 77.60498c0x1c1x1V44.779297 77.57959c0x1c1x1V44.874512 77.404785c0x1c1x1V44.88916 77.381836c0x1c1x1V45.003906 77.226074c0x1c1x1V45.020508 77.206543c0x1c1x1V45.160156 77.060547c0x1c1x1V45.179688 77.04248c0x1c1x1V45.345703 76.909668c0x1c1x1V45.365723 76.895508c0x1c1x1V45.555176 76.778809c0x1c1x1V45.565918 76.772949c0x1c1x1V54.004883 72.274902c0x1c1x1V54.016602 72.269043c0x1c1x1V54.236816 72.168945c0x1c1x1V54.260254 72.160156c0x1c1x1V54.479004 72.092285c0x1c1x1V54.502441 72.086426c0x1c1x1V54.732422 72.044922c0x1c1x1V54.755859 72.041992c0x1c1x1V54.987793 72.027832c0x1c1x1V55.012207 72.027832c0x1c1x1</VertList>
         <PrimList>LineClosed</PrimList>
